@@ -4,5 +4,5 @@ Nesse sistema foi trabalhado com estrutura de dados em arquivo:
 3 - Pesquisar
 4 - Excluir
 
-Foi criada a Classe InOut.java para mensagens de aviso, erros, atenção e informaticas, interagindo o o usuário
+Foi criada a Classe InOut.java para mensagens de aviso, erros, atenção e informativas, interagindo com o usuário
 

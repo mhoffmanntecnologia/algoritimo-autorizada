@@ -616,7 +616,7 @@ public class Main {
 
                 InOut.MsgDeInformacao("", "Nome: " + cadE.getNomeEquipamento());
                 nomeEquipamento = InOut
-                        .leString("Digite a descri��o correta do equipamento");
+                        .leString("Digite a descriçãoo correta do equipamento");
                 cadE.setNomeEquipamento(nomeEquipamento);
                 InOut.MsgDeInformacao("", " Defeito:" + cadE.getDefeito());
                 defeito = InOut.leString(" Digite o defeito correto");

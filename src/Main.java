@@ -196,7 +196,7 @@ public class Main {
 
     }
 
-    private static void inserirEquipamentos() {// CADASTRO DE EQUIPAMENTOS
+    private static void inserirEquipamentos() {
         try {
 
             BufferedWriter saida;

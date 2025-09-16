@@ -190,7 +190,7 @@ public class Main {
                 }
             }
         } catch (Exception e) {
-            JOptionPane.showMessageDialog(null, "Erro de gravaçãoo");
+            JOptionPane.showMessageDialog(null, "Erro de gravação");
 
         }
 

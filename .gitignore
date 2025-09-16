@@ -1,29 +1,24 @@
-### IntelliJ IDEA ###
-out/
-!**/src/main/**/out/
-!**/src/test/**/out/
+# Dependências locais
+*.jar
+*.war
+*.ear
 
-### Eclipse ###
-.apt_generated
-.classpath
-.factorypath
-.project
-.settings
-.springBeans
-.sts4-cache
-bin/
-!**/src/main/**/bin/
-!**/src/test/**/bin/
+# Diretórios de build
+/bin/
+/build/
+/target/
 
-### NetBeans ###
-/nbproject/private/
-/nbbuild/
-/dist/
-/nbdist/
-/.nb-gradle/
+# Compilados Java
+*.class
 
-### VS Code ###
-.vscode/
+# Logs
+*.log
+*.out
+*.err
 
-### Mac OS ###
-.DS_Store
+
+# Configurações de IDEs
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
